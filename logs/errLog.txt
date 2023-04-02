@@ -1,0 +1,3 @@
+20230304	21:44:14	ac78fc09-b3bc-4a3a-a9a2-f0a0d10eb566	 Error: Not allowed bt CORS
+20230311	15:44:25	65c0d4f6-359c-4e63-97ed-ed3d60ac74e4	 TypeError: Cannot read properties of undefined (reading 'roles')
+20230402	08:02:56	28595127-6369-450e-854d-2632d556e739	 SyntaxError: Unexpected token f in JSON at position 18
